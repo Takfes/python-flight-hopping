@@ -1,0 +1,7 @@
+DockerShare
+*.sqlite
+*.db
+*.csv
+*.xlsx
+*.whl
+.Rhistory
