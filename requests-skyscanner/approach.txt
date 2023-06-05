@@ -1,0 +1,17 @@
+segment departure & arrival date, carrier
+
+Iteneraries
+	OutboundLegId, PricingOptions
+Legs
+	: OutboundLegId -> Segments
+Segments
+	: Legs, Flight Info (arrival, departure times)
+Agents
+Carriers
+Places
+
+/////////////////////////////
+/////////////////////////////
+
+2019-06-28
+ATH-sky
